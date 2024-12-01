@@ -1,6 +1,12 @@
 Checklist System Using Node.js
+
+
+
 Description
+
 This project implements a Checklist System that evaluates a set of predefined conditions based on input data fetched from an API. The results of the evaluation are displayed in a simple web dashboard, indicating which rules have passed and which have failed. The project is designed to be modular, scalable, and easy to maintain, ensuring that adding or modifying checklist rules is straightforward.
+
+
 Features:
 Checklist Evaluation: Evaluates multiple rules based on the data fetched from an API.
 Dynamic Rule Evaluation: Rules include checks such as:
